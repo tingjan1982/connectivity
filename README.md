@@ -3,6 +3,7 @@
 ## NAS
 host: mybooklive
 cred: <usual 90>
+ssh password: welc0me
 
 ## Router (RT-N66U)
 
