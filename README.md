@@ -6,7 +6,7 @@ This documentation provides details for managing the various network devices aro
 
 host: wdmycloudmirror (192.168.2.146)
 
-cred: admin/90
+cred: admin/%90
 
 ## WD My Book Live 
 
@@ -20,13 +20,13 @@ ssh password: root:welc0me
 
 host: 192.168.2.1
 
-cred: admin/90
+cred: admin/40151...
 
 ## AP (RT-AC55UHP) 
 
 host: 192.168.2.44 (can change. If unreachable, look up the IP by logging into router and look for host RT-AC55UHP)
 
-cred: admin/90
+cred: admin/42151...
 
 ## Printer (Canon MX350)
 
